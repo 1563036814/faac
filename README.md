@@ -1,0 +1,2 @@
+demo目录是使用faac进行pcm编码成aac的例子
+faac目录是knik0/faac的第三方aac编码源码，下载地址git@github.com:knik0/faac.git
